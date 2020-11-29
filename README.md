@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Android, JavaFX projects
+- 🌱 I’m currently learning some theory related to Operating Systems and architecture.
+
+![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaas-livcd&count_private=true&show_icons=true&theme=vue-dark)
+
+<a href="https://github.com/appleboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhaas-livcd&show_icons=true&theme=merko&count_private=true" alt="suhaas-livcd's github stats" />
+</a>
+<br/>
+
 <!--
 **suhaas-livcd/suhaas-livcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
