@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android, JavaFX projects
-- 🌱 I’m currently learning some theory related to Operating Systems and architecture.
-
-![Suhaas's github stats](https://github-readme-stats.vercel.app/api?username=suhaas-livcd&count_private=true&show_icons=true&theme=vue-dark)
+- 🔭 I’m currently working on Android, JavaFX projects and my own blog kind off.
+- 🌱 I’m currently learning on architecture designs and scaling of system.
+- 💬 Ask me about how to make a cup of java ☕  hehe ?
+- 👯 I’m looking to collaborate on Java based projects, cross platform.
 
 <a href="https://github.com/appleboy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhaas-livcd&show_icons=true&theme=merko&count_private=true" alt="suhaas-livcd's github stats" />
