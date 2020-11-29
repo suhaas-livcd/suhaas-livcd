@@ -12,16 +12,16 @@
 
 #### core langs I' work
 <a href="https://github.com/suhaas-livcd">
-  <img  alt="gavin's Codersrank" height="30px" src="https://simpleicons.org/icons/java.svg" />
+  <img  alt="suhaas-livcd's langs-i-work" height="30px" src="https://simpleicons.org/icons/java.svg" />
 </a>
 <a href="https://github.com/suhaas-livcd">
-  <img  alt="gavin's Codersrank" height="30px" src="https://simpleicons.org/icons/android.svg" />
+  <img  alt="suhaas-livcd's langs-i-work" height="30px" src="https://simpleicons.org/icons/android.svg" />
 </a>
 <a href="https://github.com/suhaas-livcd">
-  <img  alt="gavin's Codersrank" height="30px" src="https://simpleicons.org/icons/gnubash.svg" />
+  <img  alt="suhaas-livcd's langs-i-work" height="30px" src="https://simpleicons.org/icons/gnubash.svg" />
 </a>
 <a href="https://github.com/suhaas-livcd">
-  <img  alt="gavin's Codersrank" height="30px" src="https://simpleicons.org/icons/python.svg" />
+  <img  alt="suhaas-livcd's langs-i-work" height="30px" src="https://simpleicons.org/icons/python.svg" />
 </a>
 <br/>
 
