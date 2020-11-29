@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android, JavaFX projects and my own blog kind off.
-- 🌱 I’m currently learning on architecture designs and scaling of system.
-- 💬 Ask me about how to make a cup of java ☕  hehe ?
+- Working as Senior Research Engineer at 🚗 [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do).
+- I make Android Apps for In-Vehicle Infotainment System (IVI System).
+- 🔭 Apart from work, I’m currently working on Android, JavaFX projects and my own blog kind off - It's called : [Moment](https://suhaas-livcd.github.io).
+- 🌱 I’m currently learning to use different architectural designs and system scaling.
+- 💬 Ask me about how to make a cup of Java ☕  hehe ?
 - 👯 I’m looking to collaborate on Java based projects which are a bit cross platform too.
 
 <a href="https://github.com/suhaas-livcd">
