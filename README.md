@@ -5,7 +5,7 @@
 - 💬 Ask me about how to make a cup of java ☕  hehe ?
 - 👯 I’m looking to collaborate on Java based projects, cross platform.
 
-<a href="https://github.com/appleboy">
+<a href="https://github.com/suhaas-livcd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhaas-livcd&show_icons=true&theme=merko&count_private=true" alt="suhaas-livcd's github stats" />
 </a>
 <br/>
