@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Working as Senior Research Engineer at 🚗 [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do).
+- To look my past detailed experience and projects, check my [CV](https://suhaas-livcd.github.io/cv/)
 - I make Android Apps for In-Vehicle Infotainment System (IVI System).
 - 🔭 Apart from work, I’m currently working on Android, JavaFX projects and my own blog kind off - It's called : [Moment](https://suhaas-livcd.github.io).
 - 🌱 I’m currently learning to use different architectural designs and system scaling.
