@@ -1,6 +1,6 @@
 ### Hi there 👋
 - <a href="https://github.com/suhaas-livcd"><img  alt="LinkedIn" height="15px" src="https://simpleicons.org/icons/linkedin.svg" /></a> [LinkedIn](https://www.linkedin.com/in/suhaassrinivas/) - Connect me anytime to discuss about projects or any tech stuff
-- Computer Science Grad Student at USC.
+- Computer Science Grad Student at [USC](https://www.usc.edu/), Expected Graduation : Dec 2023.
 - Worked as Senior Research Engineer at 🚗 [Hyundai Mobis R&D](https://en.mobis.co.kr/products/P0005/index.do).
 - To look my past detailed experience and projects, check my [CV](https://suhaas-livcd.github.io/cv/)
 - I make Android Apps for In-Vehicle Infotainment System (IVI System).
